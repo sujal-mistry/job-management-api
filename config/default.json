@@ -1,0 +1,10 @@
+{
+  "sqldatabase": {
+    "user": "sujal",
+    "password": "Azure@104",
+    "server": "study-db1.database.windows.net",
+    "database": "StudyDb",
+    "port": 1433
+  },
+  "secret": "sser938c403n7rew68r5wbcr545824i2y43"
+}
